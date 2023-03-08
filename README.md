@@ -4,6 +4,11 @@ Create a command-line application that dynamically generates a professional READ
 
 _____
 
+## Video Demo
+(TBA)
+
+_____
+
 ## User Story
 
 ```
@@ -50,3 +55,9 @@ WHEN I click on the links in the Table of Contents
 
 THEN I am taken to the corresponding section of the README
 ```
+
+_____
+
+## Installation Required
+(TBA)
+
