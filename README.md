@@ -1,4 +1,6 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Javascript](https://img.shields.io/badge/JavaScript-.js-blue)
+![Node.js](https://img.shields.io/badge/node-.js-pink)
+![npm:inquirer](https://img.shields.io/badge/npm-inquirer-purple)
 
 
 ![README file screenshot](https://user-images.githubusercontent.com/116984891/224598713-07b052fb-2e08-4a44-875a-7a07830f0eb0.png)
@@ -14,6 +16,8 @@ _____
 - [Contributors](#contributors)
 
 - [Contact Info](#contact-info)
+
+- [Licenses](#licenses)
 _____
 
 ## Description
@@ -43,3 +47,8 @@ _____
 - [GitHub](https://github.com/ccvuong) 
 
 - [Email](vuongchristina14@gmail.com)
+_____
+
+## Licenses
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
