@@ -3,11 +3,19 @@
 Create a command-line application that dynamically generates a professional README.md file from a user's input.
 
 _____
+## Preview
 
-## Video Demo
-(TBA)
+![README file screenshot](https://user-images.githubusercontent.com/116984891/224598713-07b052fb-2e08-4a44-875a-7a07830f0eb0.png)
+_____
+
+## Installation Required
+[Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4)
 
 _____
+## Video Demo
+
+[Video Demo](https://user-images.githubusercontent.com/116984891/224598859-f3217e78-ef7e-4ca9-b155-f581fb42f95d.mp4)
+
 
 ## User Story
 
@@ -56,8 +64,4 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-_____
-
-## Installation Required
-(TBA)
 
