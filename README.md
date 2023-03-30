@@ -2,22 +2,22 @@
 ![Node.js](https://img.shields.io/badge/node-.js-pink)
 ![npm:inquirer](https://img.shields.io/badge/npm-inquirer-purple)
 
-
+## Preview
 ![README file screenshot](https://user-images.githubusercontent.com/116984891/224598713-07b052fb-2e08-4a44-875a-7a07830f0eb0.png)
 _____
 
 ## Table of Contents
-- [Description](#description)
+- [Description ✏](#description)
 
-- [Installation](#installation-required)
+- [Installation ⚙](#installation-required)
 
-- [Usage](#usage)
+- [Usage 🖰](#usage)
 
-- [Contributors](#contributors)
+- [Contributors 😎](#contributors)
 
-- [Contact Info](#contact-info)
+- [Contact Info 📫](#contact-info)
 
-- [Licenses](#licenses)
+- [Licenses 🗒](#licenses)
 _____
 
 ## Description
@@ -35,7 +35,7 @@ _____
 _____
 
 ## Contributors 
-[✨ Christina Vuong ✨](https://github.com/ccvuong)
+[😎 Christina Vuong ](https://github.com/ccvuong)
 _____
 
 ## Video Demo
@@ -44,9 +44,9 @@ _____
 
 ## Contact Info
 ❓ Additional questions? Reach me at:
-- [GitHub](https://github.com/ccvuong) 
+- [:octocat: GitHub](https://github.com/ccvuong) 
 
-- [Email](vuongchristina14@gmail.com)
+- [ 📫 Email](vuongchristina14@gmail.com)
 _____
 
 ## Licenses
